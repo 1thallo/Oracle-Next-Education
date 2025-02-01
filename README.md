@@ -1,4 +1,4 @@
-https://img.shields.io/badge/ONE-ORACLE
+
 ---
 
 # 🏫 Programa ONE - Oracle Next Education  
